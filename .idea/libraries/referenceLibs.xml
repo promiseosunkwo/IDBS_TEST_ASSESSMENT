@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="referenceLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/referenceLibs/javax.json-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/referenceLibs/IDBSDeveloperAssessment.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/referenceLibs/javax.json-api-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
